@@ -33,4 +33,4 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
 
  ## Live Dashboard
-[!Explore the live dashboard](https://app.powerbi.com/groups/me/reports/1ebed7d4-b307-4ad6-bbcc-179d678557af/a3dba7259f398cd5c8c6?experience=power-bi)
+[!Explore the live dashboard](https://app.powerbi.com/groups/me/reports/1ebed7d4-b307-4ad6-bbcc-179d678557af/84cce4a77c6d30d8c78e?experience=power-bi)
