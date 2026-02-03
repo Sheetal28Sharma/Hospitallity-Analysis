@@ -34,3 +34,4 @@ Crafting these views required a blend of analytical prowess and creativity, resu
 
  ## Live Dashboard
 Explore the live dashboard
+!Alt text](https://github.com/Sheetal28Sharma/Hospitallity-Analysis/blob/main/Snapshot%20of%20the%20%20dashboard.png)
