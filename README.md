@@ -34,4 +34,4 @@ Crafting these views required a blend of analytical prowess and creativity, resu
 
  ## Live Dashboard
 Explore the live dashboard
-https://app.powerbi.com/groups/me/reports/1ebed7d4-b307-4ad6-bbcc-179d678557af/a3dba7259f398cd5c8c6?experience=power-bi
+(https://app.powerbi.com/groups/me/reports/1ebed7d4-b307-4ad6-bbcc-179d678557af/a3dba7259f398cd5c8c6?experience=power-bi)
